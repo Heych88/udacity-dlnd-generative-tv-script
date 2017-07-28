@@ -15,13 +15,15 @@ The code is located in a Jupyter Notebook. You can install Jupyter Notebook by i
 
 ## Installing
 
-1. Clone this repository
+Clone this repository
 
 ```
 git clone https://github.com/Heych88/udacity-dlnd-generative-tv-script.git
 ```
 
-2. Navigate to the cloned directories location and start jupyter notebook with `dlnd_tv_script_generation.ipynb`
+## Run the Code
+
+Navigate to the cloned directories location and start jupyter notebook with `dlnd_tv_script_generation.ipynb`
 
 ```
 jupyter notebook dlnd_tv_script_generation.ipynb
